@@ -1,0 +1,20 @@
+Creating React App
+
+1. if in existing folder --> create react app by "npx create-react-app ."
+2. "npx create-react-app folder_name" to create project called "folder_name"
+
+Starting the mongoose database
+1. click Windows -> type "ubuntu" -> click the program
+2. opens a terminal -> type "sudo service mongodb start"
+3. prompts for user password -> pw: Jr25360912
+4. type "mongo"
+5. "use test"
+6. done.
+
+Using local database with MongoDB extension
+1. click "localhost:27017" if it exists
+2. or, create one -> 27017 is the default 
+
+ThunderClient
+1. remember to check global environment variables
+2. route URL should match the GET/POST/PATCH/DELETE defined routes
