@@ -18,3 +18,20 @@ Using local database with MongoDB extension
 ThunderClient
 1. remember to check global environment variables
 2. route URL should match the GET/POST/PATCH/DELETE defined routes
+
+
+
+----------------------   Key topics to study for:  --------------------
+
+error codes
+router in EXpress
+router in react
+secuirty packages
+mvc
+deployment of React
+swagger doc
+
+API Keys vs OAuth Tokens vs JSON Web Tokens
+dev. vs prod.
+loading
+mongoose validation
