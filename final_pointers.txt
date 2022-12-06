@@ -35,3 +35,13 @@ API Keys vs OAuth Tokens vs JSON Web Tokens
 dev. vs prod.
 loading
 mongoose validation
+
+What is REST.api? 
+https://restfulapi.net/ 
+
+https://swagger.io/
+- helps to build your own API documentation
+
+Development vs Production
+- development = when we test routes/code locally on our comptuers
+- production = the environment 
